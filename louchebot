@@ -3,7 +3,7 @@
 
 from random import choice
 
-mot=raw_input("votre mot?)
+mot=raw_input("votre mot?")
 mot.lower()
 print mot
 
